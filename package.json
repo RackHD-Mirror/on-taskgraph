@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RackHD/on-taskgraph.git"
+    "url": "https://github.com/RackHD-mirror/on-taskgraph.git"
   },
   "keywords": [
     "task",
@@ -21,7 +21,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "consul": "^0.26.0",
-    "di": "git+https://github.com/RackHD/di.js.git",
+    "di": "git+https://github.com/RackHD-mirror/di.js.git",
     "dot-object": "^0.6.0",
     "ejs": "~2.5.2",
     "es6-shim": "^0.22.2",
@@ -32,9 +32,9 @@
     "lru-cache": "^2.5.0",
     "minimist": "^1.2.0",
     "node-uuid": "^1.4.2",
-    "on-core": "git+https://github.com/RackHD/on-core.git",
+    "on-core": "git+https://github.com/RackHD-mirror/on-core.git",
     "on-finished": "^2.3.0",
-    "on-tasks": "git+https://github.com/RackHD/on-tasks.git",
+    "on-tasks": "git+https://github.com/RackHD-mirror/on-tasks.git",
     "rx": "^2.3.22",
     "swagger-tools": "0.8.*",
     "tv4": "~1.2.7"
